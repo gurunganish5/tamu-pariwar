@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/tamu-pariwar/static/css/main.d4639ed9.chunk.css",
+    "main.js": "/tamu-pariwar/static/js/main.33f6e435.chunk.js",
+    "main.js.map": "/tamu-pariwar/static/js/main.33f6e435.chunk.js.map",
+    "runtime-main.js": "/tamu-pariwar/static/js/runtime-main.0c6117a7.js",
+    "runtime-main.js.map": "/tamu-pariwar/static/js/runtime-main.0c6117a7.js.map",
+    "static/js/2.34111838.chunk.js": "/tamu-pariwar/static/js/2.34111838.chunk.js",
+    "static/js/2.34111838.chunk.js.map": "/tamu-pariwar/static/js/2.34111838.chunk.js.map",
+    "index.html": "/tamu-pariwar/index.html",
+    "static/css/main.d4639ed9.chunk.css.map": "/tamu-pariwar/static/css/main.d4639ed9.chunk.css.map",
+    "static/js/2.34111838.chunk.js.LICENSE.txt": "/tamu-pariwar/static/js/2.34111838.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c6117a7.js",
+    "static/js/2.34111838.chunk.js",
+    "static/css/main.d4639ed9.chunk.css",
+    "static/js/main.33f6e435.chunk.js"
+  ]
+}
